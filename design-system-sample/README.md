@@ -1,1 +1,1 @@
-
+The design-system folder contains a comprehensive collection of reusable components, style guides, and design tokens aimed at maintaining consistency and scalability across all UI projects. This system ensures a unified visual language, enhances developer handoff, and accelerates the design process.
