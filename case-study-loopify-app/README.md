@@ -1,1 +1,1 @@
-Loopify Case Study files and Images
+Loopify Case Study files and Figma Source Files
