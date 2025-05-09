@@ -1,1 +1,1 @@
-
+The certificates folder contains verified credentials that demonstrate my commitment to continuous learning and skill development in UI/UX design. Each certificate highlights key competencies in user research, design systems, prototyping, and usability testing.
