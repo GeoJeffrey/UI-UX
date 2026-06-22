@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Geo Jeffrey — UI/UX Designer
+# 👋 Hi there, I’m Geo Jeffrey , These are my UI/UX Designs
 
 🎨 I craft intuitive, human-centered digital experiences with a focus on usability, accessibility, and aesthetics.
 
