@@ -18,15 +18,17 @@ Whether I’m sketching wireframes or preparing assets for developers, I bridge 
 ---
 
 ## 🧰 Tools I Use
-| Figma | HTML/CSS, JavaScript (basic) |
- 
+
+- Figma
+- HTML/CSS, JavaScript (basic)
+
 ---
 
 ### 🔁 Case Studies
 Each project folder includes UX research, wireframes, high-fidelity UI designs, prototypes, and testing insights.
 
-- Trendly UI/UX Case Study (E-Commerce App)
-- Loopify Music App UI\UX Design
+- [Trendly UI/UX Case Study (E-Commerce App)](./case-study-trendly-app)
+- [Loopify Music App UI/UX Design](./case-study-loopify-app)
 
 ---
 
@@ -38,7 +40,7 @@ Each case study demonstrates this process with real deliverables.
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](www.linkedin.com/in/geo-jeffrey)
+- 💼 [LinkedIn](https://www.linkedin.com/in/geo-jeffrey)
 - 📧 geojeffrey2005@gmail.com
 
 ---
